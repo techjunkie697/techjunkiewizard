@@ -1,0 +1,2 @@
+# techjunkiewizard
+my kodi wizard
